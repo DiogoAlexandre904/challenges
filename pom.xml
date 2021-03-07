@@ -44,10 +44,5 @@
             <version>${cucumber-java.version}</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
-            <groupId>sergiospinto</groupId>
-            <artifactId>flow</artifactId>
-            <version>${flow.version}</version>
-        </dependency>
     </dependencies>
 </project>
